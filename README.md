@@ -2,6 +2,8 @@
 
 A simple terminal-based to-do list manager written in Rust. Tasky allows you to add, view, complete, and delete tasks while saving them between sessions.
 
+Jira(not accesible by anyone else. for now.): https://theunconcernedape.atlassian.net/jira/software/projects/RS/boards/2
+
 ## Features
 - Add tasks
 - View all tasks
